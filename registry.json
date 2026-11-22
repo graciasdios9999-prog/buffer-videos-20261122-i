@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-22",
+  "organization": "My organization",
+  "do_not_repeat": [
+    "Birgus latro",
+    "cangrejo de los cocoteros",
+    "Rut y Noemi",
+    "Booz",
+    "sudor como detox",
+    "manzanilla",
+    "romero",
+    "albahaca",
+    "comino",
+    "anis estrellado"
+  ],
+  "voices": {"ia": "es-MX-DaliaNeural", "fe": "es-MX-JorgeNeural", "cu": "es-CO-SalomeNeural"},
+  "durations": {"ia": "00:03:33", "fe": "00:03:09", "cu": "00:03:11"},
+  "note": "No llegan a 90 minutos. Guion unico, sin bucle ni B-roll repetido. Wikimedia no da cientos de fotos distintas del mismo animal sin repetir plano."
+}
